@@ -4,7 +4,7 @@
 - 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models and helping folks grow in their career
 - 🌱 I’m currently working as a Machine Learning Engineer in Camcom Technologies
 - 💞️ I’m looking to collaborate on data science / data analytics project
-- 📫 How to reach me : LinkedIN profile: https://www.linkedin.com/in/janardanpandey/
+- 📫 How to reach me : LinkedIn profile: https://www.linkedin.com/in/janardanpandey/
 
 ## Databases ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Languages ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
